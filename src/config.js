@@ -25,7 +25,7 @@ const config = {
 
       1. Raspberry Pi에서 Deep Learning Module를 사용하여 차량 인식률 개선을 위한 인식 모델 테스트
       
-      2. 인식된 정보를 MQTT를 활용하여 Data 전송
+      2. 인식된 정보를 MQTT를 활용하여 회사 서버 및 웹개발자에게 전송
 
       3. Raspberry Pi에서 외부카메라, 기울기 센서, 삼각함수를 활용한 임의의 물체와의 거리 측정`,
       images: [
