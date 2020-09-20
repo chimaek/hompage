@@ -23,9 +23,10 @@ const config = {
         "Korea’s science and technology industry. Research Data Sharing Center",
       duration: "2019.06 ~ 2019.08",
       description: `한국과학기술정보연구원 연구데이터공유부서에서 인턴으로 IoT와 관련된 SW개발 업무를 맡았습니다.
-                        
-            1. Raspberry Pi에서 Deep Learning Module를 사용하여 차량 인식률 개선을 위한 인식 모델 테스트 및 MQTT를 활용하여 인식된 Data 전송
-            2. Raspberry Pi에서 외부카메라, 기울기 센서, 삼각함수를 활용한 임의의 물체와의 거리 측정`,
+
+      1. Raspberry Pi에서 Deep Learning Module를 사용하여 차량 인식률 개선을 위한 인식 모델 테스트 및 MQTT를 활용하여 인식된 Data 전송
+
+      2. Raspberry Pi에서 외부카메라, 기울기 센서, 삼각함수를 활용한 임의의 물체와의 거리 측정`,
     },
   ],
   presentations: [
@@ -38,9 +39,7 @@ const config = {
       skills: ["Python", "Seaborn", "Pandas", "Scikit-learn", "Google Colab"],
       images: ["images/meetup/colab.jpg"],
       etc: [
-        "https://drive.google.com/file/d/1kCQSKjs6Koim6Y15HQoiNP06_ssg3iMz/view?usp=sharing",
-        "https://drive.google.com/file/d/17TAwUogOu6wiZ6A_00rZrR60QEqS1haW/view?usp=sharing",
-        "https://colab.research.google.com/drive/17wW74JJmCTAW1m-9BceiBpJeM5bNrt3n?usp=sharing",
+        "https://colab.research.google.com/drive/17wW74JJmCTAW1m-9BceiBpJeM5bNrt3n?usp=sharing"
       ],
     },
   ],
@@ -56,7 +55,7 @@ const config = {
             교내 공학교육혁신센터 주관 2019 TBM 창업 캠프 장려상 수상
             공학교육혁신센터 주관 2019 창의융합 공학페스티벌 최우수상 수상
             제 34회 교내 컴퓨터공학과 전시회 기업체(Kakao)상 수상
-            특허 상표 출원(4020190186548)-2019.12.02`,
+            특허 상표 출원-2019.12.02`,
       contribution:
         "개발팀장을 맡아 기획팀이 잠재적 서비스 대상자들에게 수집한 요구사항을 토대로 UI를 설계 구현하고 Google Map API를 사용하여 사용자 근처 병원위치 정보를 알려주는 기능을 Git Flow를 활용한 협업을 통해 개발했습니다.",
       skills: ["JAVA", "Google Map API", "Android", "Git Flow"],
