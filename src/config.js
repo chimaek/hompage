@@ -38,9 +38,13 @@ const config = {
       contribution:
         "캐글 데이터셋인 “House Sales in King Country”를 기반으로 Seaborn, Pandas를 통한 데이터 분석 및 전 처리단계를 거쳐 Scikit-learn의 SVM, Decision Tree, Linear Regression등 예측 기법을 통해 집 값 예측을 진행하였습니다.",
       skills: ["Python", "Seaborn", "Pandas", "Scikit-learn", "Google Colab"],
-      images: ["images/meetup/colab.jpg"],
+      images: [
+        "images/meetup/save1.png",
+        "images/meetup/save2.png",
+        "images/meetup/save3.png",
+      ],
       etc: [
-        "https://colab.research.google.com/drive/17wW74JJmCTAW1m-9BceiBpJeM5bNrt3n?usp=sharing"
+        "https://colab.research.google.com/drive/17wW74JJmCTAW1m-9BceiBpJeM5bNrt3n?usp=sharing",
       ],
     },
   ],
@@ -57,8 +61,7 @@ const config = {
             제 34회 교내 컴퓨터공학과 전시회 기업체(Kakao)상 수상
             교내 공학교육혁신센터 주관 2019 창의융합 공학페스티벌 최우수상 수상
             특허 상표 출원-2019.12.02`,
-      contribution:
-        `개발팀장을 맡아 기획팀이 잠재적 서비스 대상자들에게 수집한 요구사항을 토대로 UI를 설계, 구현하고 Google Map API를 사용하여 사용자 근처 병원위치 정보를 알려주는 기능을 개발했습니다
+      contribution: `개발팀장을 맡아 기획팀이 잠재적 서비스 대상자들에게 수집한 요구사항을 토대로 UI를 설계, 구현하고 Google Map API를 사용하여 사용자 근처 병원위치 정보를 알려주는 기능을 개발했습니다
         Git Flow를 활용해 전체적인 개발과정을 협업을 통해 진행했습니다.`,
       skills: ["JAVA", "Google Map API", "Android", "Git Flow"],
       images: ["images/honjawan/hon2.jpg", "images/honjawan/label2.png"],
@@ -82,7 +85,11 @@ const config = {
         "Google Cloud Platform(AutoML)",
         "Git Flow",
       ],
-      images: ["images/beerism/beer1.jpg", "images/beerism/beer4.png","images/beerism/git.png"],
+      images: [
+        "images/beerism/beer1.jpg",
+        "images/beerism/beer4.png",
+        "images/beerism/git.png",
+      ],
       etc: ["https://github.com/running-machine/beerism"],
     },
     {
