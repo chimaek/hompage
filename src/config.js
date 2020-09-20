@@ -35,7 +35,7 @@ const config = {
     {
       name: "데이터 사이언스 캐글 밋업",
       duration: "2019.01 ~ 2019.03",
-      description: `캐글 플랫폼의 데이터를 기반으로 머신러닝을 활용하여 예측하는 데이터 사이언스와 이를 데이터 사이언스에 관심있는 도민들에게 발표하는 자리를 가졌습니다.`,
+      description: `캐글 플랫폼의 데이터셋을 기반으로 머신러닝을 활용하여 예측하는 데이터 사이언스와 진행과정을 관심있는 분들께 발표하는 자리를 가졌습니다.`,
       contribution:
         "캐글 데이터셋인 “House Sales in King Country”를 기반으로 Seaborn, Pandas를 통한 데이터 분석 및 전 처리단계를 거쳐 Scikit-learn의 SVM, Decision Tree, Linear Regression등 예측 기법을 통해 집 값 예측을 진행하였습니다.",
       skills: ["Python", "Seaborn", "Pandas", "Scikit-learn", "Google Colab"],
@@ -55,11 +55,12 @@ const config = {
             
             2019 공학페스티벌 창업 아이디어 공모전 부문 우수상 수상
             교내 공학교육혁신센터 주관 2019 TBM 창업 캠프 장려상 수상
-            공학교육혁신센터 주관 2019 창의융합 공학페스티벌 최우수상 수상
             제 34회 교내 컴퓨터공학과 전시회 기업체(Kakao)상 수상
+            교내 공학교육혁신센터 주관 2019 창의융합 공학페스티벌 최우수상 수상
             특허 상표 출원-2019.12.02`,
       contribution:
-        "개발팀장을 맡아 기획팀이 잠재적 서비스 대상자들에게 수집한 요구사항을 토대로 UI를 설계 구현하고 Google Map API를 사용하여 사용자 근처 병원위치 정보를 알려주는 기능을 Git Flow를 활용한 협업을 통해 개발했습니다.",
+        `개발팀장을 맡아 기획팀이 잠재적 서비스 대상자들에게 수집한 요구사항을 토대로 UI를 설계, 구현하고 Google Map API를 사용하여 사용자 근처 병원위치 정보를 알려주는 기능을 개발했습니다
+        전체적인 개발 과정은 Git Flow를 활용한 협업을 통해 개발했습니다.`,
       skills: ["JAVA", "Google Map API", "Android", "Git Flow"],
       images: ["images/honjawan/hon2.jpg", "images/honjawan/label2.png"],
       etc: ["https://github.com/youarealone/hjw-front"],
@@ -67,9 +68,11 @@ const config = {
     {
       name: "Beerism",
       duration: "2019.04 ~ 2019.11",
-      description: `모바일 카메라를 활용하여 실시간으로 맥주 인식과 알고리즘을 통해 추천 기능을 포함한 App입니다. 
+      description: `모바일 카메라를 활용하여 실시간으로 맥주 인식과 추천 기능을 포함한 App입니다. 
             
-            Google Cloud Platform의 AutoML을 활용해 맥주 인식 모델을 학습시켜 사용자가 실시간으로 모바일 카메라로 맥주를 찍어 Google Firebase DB에 존재하는 맥주와 일치하는 정보를 찾아 알려주는 기능과 사용자의 맥주 선호도를 수집하여 피어슨 상관계수를 활용해 맥주를 추천해 주는 기능을 탑재하고 있습니다.
+            Google Cloud Platform의 AutoML을 활용해 맥주 인식 모델을 학습시켜 사용자가 실시간으로 모바일 카메라로 맥주를 찍어 Google Firebase DB에 존재하는 맥주와 일치하는 정보를 찾아 알려주는 기능을 개발했습니다.
+            
+            사용자의 맥주 선호도를 수집하여 피어슨 상관계수를 활용해 맥주를 추천해 주는 기능을 탑재하고 있습니다.
             
             2019 2학기 교내 전공동아리 결과발표회 장려상 수상작품입니다.`,
       contribution:
@@ -90,7 +93,7 @@ const config = {
             
             2019 1학기 교내 캡스톤디자인 결과발표회 대상 수상 작품입니다.`,
       contribution:
-        "팀장을 맡아 인식모델을 제작하는 프로세스를 팀원에게 알려주었으며, 라벨링된 건물 이미지를 Tensorflow를 통해 여러 인식 모델을 기반으로 학습하고 비교하면서 Android에 최적화된 모델인 SSD-Mobilenet 모델을 Embedding하는 업무를 수행했습니다.",
+        "팀장을 맡아 인식모델을 제작하는 프로세스를 팀원에게 알려주었으며, 라벨링된 건물 이미지를 Tensorflow를 통해 여러 인식 모델을 기반으로 학습하고 비교하면서 Android에 SSD-Mobilenet 모델을 Embedding하는 업무를 수행했습니다.",
       skills: ["Tensorflow", "Android", "Python", "Google Colab"],
       images: ["images/Jevigation/jevi1.jpg", "images/Jevigation/jevi2.jpg"],
       etc: [
