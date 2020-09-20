@@ -10,6 +10,7 @@ const renderItem = (item, index) => (
             <div>{item.duration}</div>
         </div>
         <pre className="description">{item.description}</pre>
+        {item.images && renderImg(item.images)}
     </li>
 )
 
@@ -21,10 +22,19 @@ const Career = ({careers = []}) => {
                 <ul>
                     {careers.map(renderItem) }
                 </ul>
+                {item.images && renderImg(item.images)}
             </Fragment>
         </Card>
     )
 }
+
+const renderImg = (images) => (
+    <div className="image-container">
+        {images.map((item, index) => (
+            <img key={index} src={item} alt="그림" />
+        ))}
+    </div>
+)
 
 Career.propTypes = {
     careers: PropTypes.array.isRequired

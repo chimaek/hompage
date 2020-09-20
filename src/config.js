@@ -39,7 +39,10 @@ const config = {
       duration: "2019.01 ~ 2019.03",
       description: `캐글 플랫폼의 데이터셋을 기반으로 머신러닝을 활용하여 예측하는 데이터 사이언스와 진행과정을 관심있는 분들께 발표하는 자리를 가졌습니다.`,
       contribution:
-        "캐글 데이터셋인 “House Sales in King Country”를 기반으로 Seaborn, Pandas를 통한 데이터 분석 및 전 처리단계를 거쳐 Scikit-learn의 SVM, Decision Tree, Linear Regression등 예측 기법을 통해 집 값 예측을 진행하였습니다.",
+        `캐글 데이터셋인 “House Sales in King Country”를 기반으로 Seaborn, Pandas를 통한 데이터 분석 및 전 처리단계를 거쳐 Scikit-learn의 SVM, Decision Tree, Linear Regression등 예측 기법을 통해 집 값 예측을 진행하였습니다.
+        
+        이 경험으로 
+        `,
       skills: ["Python", "Seaborn", "Pandas", "Scikit-learn", "Google Colab"],
       images: [
         "images/meetup/save1.png",
