@@ -60,7 +60,7 @@ const config = {
         "개발팀장을 맡아 기획팀이 잠재적 서비스 대상자들에게 수집한 요구사항을 토대로 UI를 설계 구현하고 Google Map API를 사용하여 사용자 근처 병원위치 정보를 알려주는 기능을 Git Flow를 활용한 협업을 통해 개발했습니다.",
       skills: ["JAVA", "Google Map API", "Android", "Git Flow"],
       images: ["images/honjawan/hon2.jpg", "images/honjawan/label2.png"],
-      etc: [],
+      etc: ["https://github.com/youarealone/hjw-front"],
     },
     {
       name: "Beerism",
@@ -69,7 +69,7 @@ const config = {
             
             Google Cloud Platform의 AutoML을 활용해 맥주 인식 모델을 학습시켜 사용자가 실시간으로 모바일 카메라로 맥주를 찍어 Google Firebase DB에 존재하는 맥주와 일치하는 정보를 찾아 알려주는 기능과 사용자의 맥주 선호도를 수집하여 피어슨 상관계수를 활용해 맥주를 추천해 주는 기능을 탑재하고 있습니다.
             
-            2019 2학기 전공동아리 결과발표회 장려상 수상작품입니다.`,
+            2019 2학기 교내 전공동아리 결과발표회 장려상 수상작품입니다.`,
       contribution:
         "팀장을 맡아 팀원들에게 프로젝트의 전반적인 프로세스들을 알려주고, GCP AutoML을 이용한 인식 모델 제작 및 테스트하여 Android에 Embedding하는 과정을 진행하였습니다.",
       skills: [
@@ -88,7 +88,7 @@ const config = {
             
             2019 1학기 교내 캡스톤디자인 결과발표회 대상 수상 작품입니다.`,
       contribution:
-        "팀장을 맡아 인식모델을 제작하는 프로세스를 팀원에게 알려주었으며, 라벨링된 건물 이미지를 Tensorflow로 만들어진 여러 인식 모델을 기반으로 학습하고 비교하면서 Android에 Embedding하는 업무를 수행했습니다.",
+        "팀장을 맡아 인식모델을 제작하는 프로세스를 팀원에게 알려주었으며, 라벨링된 건물 이미지를 Tensorflow를 통해 여러 인식 모델을 기반으로 학습하고 비교하면서 Android에 최적화된 모델인 SSD-Mobilenet 모델을 Embedding하는 업무를 수행했습니다.",
       skills: ["Tensorflow", "Android", "Python", "Google Colab"],
       images: ["images/Jevigation/jevi1.jpg", "images/Jevigation/jevi2.jpg"],
       etc: [
@@ -104,7 +104,7 @@ const config = {
       contribution:
         "소스 코드 작성 및 동영상 강의를 바울랩(http://www.paullab.co.kr/)과 공동으로 제작하고 있습니다.",
       skills: ["Python", "PyQt5", "Notion"],
-      images: ["images/pyqt5/main.png"],
+      images: ["images/pyqt/logo.png"],
     },
     {
       name: "떴다 떴다 비행기",
