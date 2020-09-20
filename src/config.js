@@ -3,8 +3,7 @@ const config = {
     githubAccountId: "chimaek",
     profileImg: "images/pro2.jpg",
     email: "pipiru100@gmail.com",
-    description: `Computer Vision 및 Android 분야에 관심있는 개발자 입니다. 주로 JAVA와 Python을 다루고 있습니다. 
-                현재는 Computer Vision, 머신러닝에 관련된 기술을 공부하고 있습니다.`,
+    description: `Computer Vision, Android, Backend 분야에 관심있는 개발자 입니다. 주로 JAVA와 Python을 다루고 있습니다.`,
     github: "https://github.com/chimaek",
   },
   skills: [
@@ -60,7 +59,7 @@ const config = {
             특허 상표 출원-2019.12.02`,
       contribution:
         `개발팀장을 맡아 기획팀이 잠재적 서비스 대상자들에게 수집한 요구사항을 토대로 UI를 설계, 구현하고 Google Map API를 사용하여 사용자 근처 병원위치 정보를 알려주는 기능을 개발했습니다
-        전체적인 개발 과정은 Git Flow를 활용한 협업을 통해 개발했습니다.`,
+        Git Flow를 활용해 전체적인 개발과정을 협업을 통해 진행했습니다.`,
       skills: ["JAVA", "Google Map API", "Android", "Git Flow"],
       images: ["images/honjawan/hon2.jpg", "images/honjawan/label2.png"],
       etc: ["https://github.com/youarealone/hjw-front"],
