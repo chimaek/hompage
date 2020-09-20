@@ -7,9 +7,9 @@ const renderItem = (item, index) => (
     <li key={index}>
         <div className="language">
             <div>{item.name}</div> 
-            <pre>{item.duration}</pre>
+            <div>{item.duration}</div>
         </div>
-        <div className="description">{item.description}</div>
+        <pre className="description">{item.description}</pre>
     </li>
 )
 
