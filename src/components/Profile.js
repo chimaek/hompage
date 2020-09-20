@@ -23,7 +23,7 @@ const Profile = ({profileImg = undefined, githubAccountId = '', email = undefine
                     <div className="contact">
                         <ul>
                             {github && <li><a href={`https://github.com/${githubAccountId}`}><GoMarkGithub />{github} </a></li>}
-                            {email && <li><IoIosMail />{email} </li>}
+                            {email && <li><a mailto><IoIosMail />{email}</a> </li>}
                             {phone && <li><IoIosPhonePortrait /> {phone} </li>}
                         </ul>
                     </div>

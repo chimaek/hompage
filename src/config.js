@@ -59,7 +59,7 @@ const config = {
       contribution:
         "개발팀장을 맡아 기획팀이 잠재적 서비스 대상자들에게 수집한 요구사항을 토대로 UI를 설계 구현하고 Google Map API를 사용하여 사용자 근처 병원위치 정보를 알려주는 기능을 Git Flow를 활용한 협업을 통해 개발했습니다.",
       skills: ["JAVA", "Google Map API", "Android", "Git Flow"],
-      images: ["images/honjawan/hon2.jpg", "images/honjawan/label.png"],
+      images: ["images/honjawan/hon2.jpg", "images/honjawan/label2.png"],
       etc: [],
     },
     {
@@ -78,7 +78,7 @@ const config = {
         "Google Cloud Platform(AutoML)",
         "Git Flow",
       ],
-      images: ["images/beerism/beer1.jpg", "images/beerism/beer2.jpg","images/git.png"],
+      images: ["images/beerism/beer1.jpg", "images/beerism/beer2.jpg","images/beerism/git.png"],
       etc: ["https://github.com/running-machine/beerism"],
     },
     {
