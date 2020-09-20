@@ -78,7 +78,7 @@ const config = {
         "Google Cloud Platform(AutoML)",
         "Git Flow",
       ],
-      images: ["images/beerism/beer1.jpg", "images/beerism/beer2.jpg","images/beerism/git.png"],
+      images: ["images/beerism/beer1.jpg", "images/beerism/beer3.jpg","images/beerism/git.png"],
       etc: ["https://github.com/running-machine/beerism"],
     },
     {
