@@ -120,9 +120,10 @@ const config = {
       description:
         "인프런(https://www.inflearn.com/) 사이트에서 PyQt5 라이브러리를 통한 강의 제작을 하고 있습니다.",
       contribution:
-        "소스 코드 작성 및 동영상 강의를 바울랩(http://www.paullab.co.kr/)과 공동으로 제작하고 있습니다.",
+        `소스 코드 작성 및 동영상 강의를 바울랩(http://www.paullab.co.kr/)과 공동으로 제작하고 있습니다.
+        전자책 또한 출판 예정입니다`,
       skills: ["Python", "PyQt5", "Notion"],
-      images: ["images/pyqt/logo.png"],
+      images: ["images/pyqt/logo.png","images/pyqt/book.png"],
     },
     {
       name: "떴다 떴다 비행기",
