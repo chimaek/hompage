@@ -131,7 +131,7 @@ const config = {
       description:
         "오픈소스 개발 방법론 수업에서 비행기 게임인 스트라이크1945를 모티브로 하여 pyGame라이브러리를 활용해 만든 게임입니다.",
       contribution:
-        "Python 문법과 pyGame라이브러리의 활용법을 팀원들과 함께 배우며 팀장으로서 게임의 개발 프로세스를 단계적으로 만들어 팀원들에게 분배하여 개발을 진행했습니다.",
+        "Python 문법과 pyGame 라이브러리의 활용법을 팀원들과 함께 배우며 팀장으로서 게임의 개발 프로세스를 단계적으로 만들어 팀원들에게 분배하여 개발을 진행했습니다.",
       skills: ["Python", "pyGame", "git"],
       images: ["images/opensource/ok2.jpg"],
       etc: ["https://github.com/chimaek/game_python"],
