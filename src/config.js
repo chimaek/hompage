@@ -28,6 +28,9 @@ const config = {
       2. 인식된 정보를 MQTT를 활용하여 Data 전송
 
       3. Raspberry Pi에서 외부카메라, 기울기 센서, 삼각함수를 활용한 임의의 물체와의 거리 측정`,
+      images: [
+        "images/kisti/kistiVisit.jpg",
+      ]
     },
   ],
   presentations: [
