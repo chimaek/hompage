@@ -41,13 +41,14 @@ const config = {
       contribution:
         `캐글 데이터셋인 “House Sales in King Country”를 기반으로 Seaborn, Pandas를 통한 데이터 분석 및 전 처리단계를 거쳐 Scikit-learn의 SVM, Decision Tree, Linear Regression등 예측 기법을 통해 집 값 예측을 진행하였습니다.
         
-        이 경험으로 
+        이 경험으로 "캐글 코리아와 함께하는 1st ML 대회 - 타이타닉 생존자를 예측하라!" 대회에서 당시 50위권에 랭크 되었습니다.
         `,
       skills: ["Python", "Seaborn", "Pandas", "Scikit-learn", "Google Colab"],
       images: [
         "images/meetup/save1.png",
         "images/meetup/save2.png",
         "images/meetup/save3.png",
+        "images/meetup/save4.png"
       ],
       etc: [
         "https://colab.research.google.com/drive/17wW74JJmCTAW1m-9BceiBpJeM5bNrt3n?usp=sharing",

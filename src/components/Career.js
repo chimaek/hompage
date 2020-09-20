@@ -22,7 +22,7 @@ const Career = ({careers = []}) => {
                 <ul>
                     {careers.map(renderItem) }
                 </ul>
-                {item.images && renderImg(item.images)}
+                
             </Fragment>
         </Card>
     )
