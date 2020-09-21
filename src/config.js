@@ -21,9 +21,9 @@ const config = {
       name:
         "Korea’s science and technology industry. Research Data Sharing Center",
       duration: "2019.06 ~ 2019.08",
-      description: `한국과학기술정보연구원 연구데이터공유부서에서 인턴으로 IoT와 관련된 SW개발 업무를 맡았습니다.
+      description: `한국과학기술정보연구원 연구데이터공유부서에서 인턴으로 엣지컴퓨팅 SW개발 업무를 맡았습니다.
 
-      1. Raspberry Pi에서 Deep Learning Module를 사용하여 차량 인식률 개선을 위한 인식 모델 테스트
+      1. Raspberry Pi에서 딥러닝모듈을 사용하여 차량 인식률 개선을 위한 인식 모델 테스트
       
       2. 인식된 정보를 MQTT를 활용하여 회사 서버 및 웹개발자에게 전송
 
