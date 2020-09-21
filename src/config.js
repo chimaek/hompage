@@ -72,7 +72,7 @@ const config = {
         Git Flow를 활용해 전체적인 개발과정을 협업을 통해 진행했습니다.`,
       skills: ["JAVA", "Google Map API", "Android", "Git Flow"],
       images: ["images/honjawan/hon2.jpg", "images/honjawan/label2.png"],
-      etc: ["https://github.com/youarealone/hjw-front"],
+      etc: ["https://github.com/youarealone/hjw-front","https://play.google.com/store/apps/details?id=com.jejunu.honjawan&hl=ko"],
     },
     {
       name: "Beerism",
@@ -118,9 +118,9 @@ const config = {
       name: "예제로 살펴보는 PyQt Tutorial",
       duration: "2019.07 ~ 현재",
       description:
-        "인프런(https://www.inflearn.com/) 사이트에서 PyQt5 라이브러리를 통한 강의 제작을 하고 있습니다.",
+        "인프런(https://www.inflearn.com/) 사이트에서 PyQt5 라이브러리를 통한 강의를 제작하고 있습니다.",
       contribution:
-        `소스 코드 작성 및 동영상 강의를 바울랩(http://www.paullab.co.kr/)과 공동으로 제작하고 있습니다.
+        `소스 코드 작성 및 동영상 강의를 지역내 IT회사와 공동으로 제작하고 있습니다.
         전자책 또한 출판 예정입니다.`,
       skills: ["Python", "PyQt5", "Notion"],
       images: ["images/pyqt/logo.png","images/pyqt/book.png"],
