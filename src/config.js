@@ -1,7 +1,7 @@
 const config = {
   profile: {
     githubAccountId: "chimaek",
-    profileImg: "images/pro2.jpg",
+    profileImg: "images/profile.jpg",
     email: "pipiru100@gmail.com",
     description: `Computer Vision, Android, Backend 분야에 관심있는 개발자 입니다. 주로 JAVA와 Python을 다루고 있습니다.`,
     github: "https://github.com/chimaek",
@@ -29,7 +29,7 @@ const config = {
 
       3. Raspberry Pi에서 외부카메라, 기울기 센서, 삼각함수를 활용한 임의의 물체와의 거리 측정`,
       images: [
-        "images/kisti/kistiVisit.jpg",
+        "images/kisti/kistiVisit.jpg", "images/kisti/kisti.jpg"
       ]
     },
   ],
@@ -48,10 +48,12 @@ const config = {
         "images/meetup/save1.png",
         "images/meetup/save2.png",
         "images/meetup/save3.png",
-        "images/meetup/save4.png"
+        "images/meetup/save4.png",
+        "images/meetup/meetup.jpg"
       ],
       etc: [
         "https://colab.research.google.com/drive/17wW74JJmCTAW1m-9BceiBpJeM5bNrt3n?usp=sharing",
+        "https://drive.google.com/file/d/17TAwUogOu6wiZ6A_00rZrR60QEqS1haW/view?usp=sharing", "https://drive.google.com/file/d/1kCQSKjs6Koim6Y15HQoiNP06_ssg3iMz/view?usp=sharing"
       ],
     },
   ],
@@ -71,8 +73,8 @@ const config = {
       contribution: `개발팀장을 맡아 기획팀이 잠재적 서비스 대상자들에게 수집한 요구사항을 토대로 UI를 설계, 구현하고 Google Map API를 사용하여 사용자 근처 병원위치 정보를 알려주는 기능을 개발했습니다
         Git Flow를 활용해 전체적인 개발과정을 협업을 통해 진행했습니다.`,
       skills: ["JAVA", "Google Map API", "Android", "Git Flow"],
-      images: ["images/honjawan/hon2.jpg", "images/honjawan/label2.png"],
-      etc: ["https://github.com/youarealone/hjw-front","https://play.google.com/store/apps/details?id=com.jejunu.honjawan&hl=ko"],
+      images: ["images/honjawan/hon2.jpg", "images/honjawan/label2.png", "images/honjawan/hon1.jpg", "images/honjawan/win.jpg"],
+      etc: ["https://github.com/youarealone/hjw-front", "https://play.google.com/store/apps/details?id=com.jejunu.honjawan&hl=ko", "http://www.headlinejeju.co.kr/news/articleView.html?idxno=402889"],
     },
     {
       name: "Beerism",
@@ -96,6 +98,7 @@ const config = {
         "images/beerism/beer1.jpg",
         "images/beerism/beer4.png",
         "images/beerism/git.png",
+        "images/beerism/beerism.jpg"
       ],
       etc: ["https://github.com/running-machine/beerism"],
     },
@@ -108,10 +111,11 @@ const config = {
       contribution:
         "팀장을 맡아 인식모델을 제작하는 프로세스를 팀원에게 알려주었으며, 라벨링된 건물 이미지를 Tensorflow를 통해 여러 인식 모델을 기반으로 학습하고 비교하면서 Android에 SSD-Mobilenet 모델을 Embedding하는 업무를 수행했습니다.",
       skills: ["Tensorflow", "Android", "Python", "Google Colab"],
-      images: ["images/Jevigation/jevi1.jpg", "images/Jevigation/jevi2.jpg"],
+      images: ["images/Jevigation/jevi1.jpg", "images/Jevigation/jevi2.jpg","images/Jevigation/jevi3.jpg"],
       etc: [
         "https://play.google.com/store/apps/details?id=org.tensorflow.jevigation",
         "https://github.com/chimaek/Jevigation",
+        "http://news.jejunu.ac.kr/news/articleView.html?idxno=13766"
       ],
     },
     {
@@ -123,7 +127,7 @@ const config = {
         `소스 코드 작성 및 동영상 강의를 지역내 IT회사와 공동으로 제작하고 있습니다.
         전자책 또한 출판 예정입니다.`,
       skills: ["Python", "PyQt5", "Notion"],
-      images: ["images/pyqt/logo.png","images/pyqt/book.png"],
+      images: ["images/pyqt/logo.png", "images/pyqt/book.png"],
     },
     {
       name: "떴다 떴다 비행기",
@@ -133,7 +137,7 @@ const config = {
       contribution:
         "Python 문법과 pyGame 라이브러리의 활용법을 팀원들과 함께 배우며 팀장으로서 게임의 개발 프로세스를 단계적으로 만들어 팀원들에게 분배하여 개발을 진행했습니다.",
       skills: ["Python", "pyGame", "git"],
-      images: ["images/opensource/ok2.jpg"],
+      images: ["images/opensource/ok2.jpg","images/opensource/ok1.jpg"],
       etc: ["https://github.com/chimaek/game_python"],
     },
   ],
