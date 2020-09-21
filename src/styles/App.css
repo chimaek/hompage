@@ -224,11 +224,15 @@
 .project > ul > li > div.image-container {
   flex-direction: column;
 }
-.career > ul > li > div.image-container > img{
-  flex-direction: column;
-  width: 100%;
-}
 
+.career > ul > li > div.image-container{
+  flex-direction: column;
+  
+}
+.career > ul > li > div.image-container > img{
+  width: 100%;
+  
+}
 
 .presentation > ul > li > div.image-container > img,
 .project > ul > li > div.image-container > img {
