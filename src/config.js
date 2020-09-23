@@ -111,7 +111,7 @@ const config = {
       contribution:
         "팀장을 맡아 인식모델을 제작하는 프로세스를 팀원에게 알려주었으며, 라벨링된 건물 이미지를 Tensorflow를 통해 여러 인식 모델을 기반으로 학습하고 비교하면서 Android에 SSD-Mobilenet 모델을 Embedding하는 업무를 수행했습니다.",
       skills: ["Tensorflow", "Android", "Python", "Google Colab"],
-      images: ["images/Jevigation/jevi1.jpg", "images/Jevigation/jevi2.jpg","images/Jevigation/jevi3.jpg"],
+      images: ["images/Jevigation/jevi1.jpg", "images/Jevigation/jevi2.jpg", "images/Jevigation/jevi3.jpg"],
       etc: [
         "https://play.google.com/store/apps/details?id=org.tensorflow.jevigation",
         "https://github.com/chimaek/Jevigation",
@@ -122,12 +122,12 @@ const config = {
       name: "예제로 살펴보는 PyQt Tutorial",
       duration: "2019.07 ~ 현재",
       description:
-        "인프런(https://www.inflearn.com/) 사이트에서 PyQt5 라이브러리를 통한 강의를 제작하고 있습니다.",
+        "인프런(https://www.inflearn.com/) 사이트에서 PyQt5 라이브러리를 통한 강의를 배포하였습니다..",
       contribution:
-        `소스 코드 작성 및 동영상 강의를 지역내 IT회사와 공동으로 제작하고 있습니다.
-        전자책 또한 출판 예정입니다.`,
+        `소스 코드 작성 및 동영상 강의를 지역내 IT회사와 공동으로 제작하고, 전자책 또한 출판하였습니다.`,
       skills: ["Python", "PyQt5", "Notion"],
-      images: ["images/pyqt/logo.png", "images/pyqt/book.png"],
+      images: ["images/pyqt/logo.png", "images/pyqt/book.png", "images/pyqt/lecture.png", "images/pyqt/teacher.png"],
+      etc: ["https://www.inflearn.com/course/pyqt-gui"]
     },
     {
       name: "떴다 떴다 비행기",
@@ -137,7 +137,7 @@ const config = {
       contribution:
         "Python 문법과 pyGame 라이브러리의 활용법을 팀원들과 함께 배우며 팀장으로서 게임의 개발 프로세스를 단계적으로 만들어 팀원들에게 분배하여 개발을 진행했습니다.",
       skills: ["Python", "pyGame", "git"],
-      images: ["images/opensource/ok2.jpg","images/opensource/ok1.jpg"],
+      images: ["images/opensource/ok2.jpg", "images/opensource/ok1.jpg"],
       etc: ["https://github.com/chimaek/game_python"],
     },
   ],
