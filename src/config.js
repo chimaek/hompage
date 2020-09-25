@@ -73,7 +73,7 @@ const config = {
       contribution: `개발팀장을 맡아 기획팀이 잠재적 서비스 대상자들에게 수집한 요구사항을 토대로 UI를 설계, 구현하고 Google Map API를 사용하여 사용자 근처 병원위치 정보를 알려주는 기능을 개발했습니다
         Git Flow를 활용해 전체적인 개발과정을 협업을 통해 진행했습니다.`,
       skills: ["JAVA", "Google Map API", "Android", "Git Flow"],
-      images: ["images/honjawan/hon2.jpg", "images/honjawan/label2.png", "images/honjawan/hon1.jpg", "images/honjawan/win.jpg"],
+      images: ["images/honjawan/hon2.jpg", "images/honjawan/label2.png", "images/honjawan/win.jpg"],
       etc: ["https://github.com/youarealone/hjw-front", "https://play.google.com/store/apps/details?id=com.jejunu.honjawan&hl=ko", "http://www.headlinejeju.co.kr/news/articleView.html?idxno=402889"],
     },
     {
