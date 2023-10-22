@@ -1,6 +1,6 @@
 # portfolio
 
-> 자소서입니다.
+> 현재는 사용하지 않습니다.
 
 ## Build Setup
 
